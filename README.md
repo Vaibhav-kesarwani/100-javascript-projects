@@ -125,6 +125,7 @@ To get started with these projects, follow these simple steps:
 
    ```bash
    git clone https://github.com/Your-Username/html-css-javascript-projects.git
+   cd html-css-javascript-projects
    ```
 
 3. **Open with VS Code**: Open the cloned repository in [Visual Studio Code](https://code.visualstudio.com/) (VS Code) or your preferred code editor.
