@@ -6,7 +6,7 @@ Welcome to the repository for 100+ mini web projects using HTML, CSS, and JavaSc
 
 Explore each project individually and view live demos to see them in action:
 
-|  #  | Project                                                                |                                               |
+|  #  | Project                                                                |
 | :-: | ---------------------------------------------------------------------- | -------------------------------------------------------- |
 | 001 | [Expanding Cards](001-expanding%20cards)                               
 | 002 | [Progress Steps](002-progress%20steps)                                 
