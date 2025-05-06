@@ -109,7 +109,8 @@ Explore each project individually and view live demos to see them in action:
 | 099 | [Parallax Website](099-parallax%20website)                             
 | 100 | [Hulu Webpage Clone](100-hulu%20webpage%20clone)                       
 | 101 | [Cascade Layers](101-cascade%20layers)                                 
-| 102 | [Container queries](102-container%20queries)                           
+| 102 | [Container queries](102-container%20queries) 
+| 103 | [Candy Crush Game](103-Candy-Crush-Game)                     
 
 ## Get Inspired
 
