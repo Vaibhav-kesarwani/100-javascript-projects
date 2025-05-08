@@ -112,6 +112,7 @@ Explore each project individually and view live demos to see them in action:
 | 102 | [Container queries](102-container%20queries) 
 | 103 | [Candy Crush Game](103-Candy-Crush-Game)    
 | 104 | [Archery Game](104-Archery-Game)    
+| 105 | [Speed Typing Game](105-Speed-Typing-Game)    
 
 ## Get Inspired
 
