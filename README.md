@@ -113,6 +113,7 @@ Explore each project individually and view live demos to see them in action:
 | 103 | [Candy Crush Game](103-Candy-Crush-Game)    
 | 104 | [Archery Game](104-Archery-Game)    
 | 105 | [Speed Typing Game](105-Speed-Typing-Game)    
+| 106 | [Breakout Game](105-Breakout-Game)    
 
 ## Get Inspired
 
