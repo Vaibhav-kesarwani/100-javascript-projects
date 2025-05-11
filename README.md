@@ -115,6 +115,7 @@ Explore each project individually and view live demos to see them in action:
 | 105 | [Speed Typing Game](105-Speed-Typing-Game)    
 | 106 | [Breakout Game](106-Breakout-Game)    
 | 107 | [Minesweeper Game](107-Minesweeper-Game)    
+| 108 | [Tower Blocks Game](108-Tower-Blocks-Game)    
 
 ## Get Inspired
 
