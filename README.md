@@ -117,6 +117,7 @@ Explore each project individually and view live demos to see them in action:
 | 107 | [Minesweeper Game](107-Minesweeper-Game)    
 | 108 | [Tower Blocks Game](108-Tower-Blocks-Game)    
 | 109 | [Ping Pong Game](109-Ping-Pong-Game)    
+| 110 | [Tetris Game](110-Tetris-Game)    
 
 ## Get Inspired
 
