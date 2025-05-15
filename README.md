@@ -77,15 +77,15 @@ You can also explore and deploy the live version from the [official website]().
 
 ## 📝 Project Preview
 
-| #   | Project Name            | View Code                                                                                                                |
-| --- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 01  | To-Do List App          | [GitHub](https://github.com//Vaibhav-kesarwani/100-javascript-projects/tree/main/01-todo-list)                           |
-| 02  | Simple Calculator       | [GitHub](https://github.com//Vaibhav-kesarwani/100-javascript-projects/tree/main/02-simple-calculator)                   |
-| 03  | Digital Clock           | [GitHub](https://github.com//Vaibhav-kesarwani/100-javascript-projects/tree/main/03-digital-clock)                       |
-| 04  | Tip Calculator          | [GitHub](https://github.com//Vaibhav-kesarwani/100-javascript-projects/tree/main/04-tip-calculator)                      |
-| 05  | Temperature Converter   | [GitHub](https://github.com//Vaibhav-kesarwani/100-javascript-projects/tree/main/05-temperature-converter)               |
-| 06  | Random Quote Generator  | [GitHub](https://github.com//Vaibhav-kesarwani/100-javascript-projects/tree/main/06-random-quote-generator)              |
-| ... | ...                     | [View All Projects »](https://github.com//Vaibhav-kesarwani/100-javascript-projects)                                     |
+| #   | Project Name            | View Code                                                                                                                 |
+| --- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------  |
+| 01  | To-Do List App          | [GitHub](https://github.com//Vaibhav-kesarwani/100-javascript-projects/tree/main/001-todo-list)                           |
+| 02  | Simple Calculator       | [GitHub](https://github.com//Vaibhav-kesarwani/100-javascript-projects/tree/main/002-simple-calculator)                   |
+| 03  | Digital Clock           | [GitHub](https://github.com//Vaibhav-kesarwani/100-javascript-projects/tree/main/003-digital-clock)                       |
+| 04  | Tip Calculator          | [GitHub](https://github.com//Vaibhav-kesarwani/100-javascript-projects/tree/main/004-tip-calculator)                      |
+| 05  | Temperature Converter   | [GitHub](https://github.com//Vaibhav-kesarwani/100-javascript-projects/tree/main/005-temperature-converter)               |
+| 06  | Random Quote Generator  | [GitHub](https://github.com//Vaibhav-kesarwani/100-javascript-projects/tree/main/006-random-quote-generator)              |
+| ... | ...                     | [View All Projects »](https://github.com//Vaibhav-kesarwani/100-javascript-projects)                                      |
 
 ---
 
