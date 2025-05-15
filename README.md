@@ -1,152 +1,159 @@
-# 100 Projects In 100 Days - HTML, CSS & JavaScript
+[![GitHub issues](https://img.shields.io/github/issues/Vaibhav-kesarwani/100-javascript-projects)](https://github.com/Vaibhav-kesarwani/100-javascript-projects/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Vaibhav-kesarwani/100-javascript-projects)](https://github.com/Vaibhav-kesarwani/100-javascript-projects/network)
+[![GitHub stars](https://img.shields.io/github/stars/Vaibhav-kesarwani/100-javascript-projects)](https://github.com/Vaibhav-kesarwani/100-javascript-projects/stargazers)
+[![GitHub license](https://img.shields.io/github/license/Vaibhav-kesarwani/100-javascript-projects)](https://github.com/Vaibhav-kesarwani/100-javascript-projects/blob/main/LICENSE)
 
-Welcome to the repository for **100+ mini web projects** using HTML, CSS, and JavaScript. This collection serves as a comprehensive resource for developers of all levels to practice their skills, explore new techniques, and get inspired by a wide range of web projects. Consider this as the ideal companion if you want to embark on the 100 Days of Code journey and challenge yourself.
+# 🚀 100 JavaScript Projects for Beginners to Intermediate Developers
 
-## Project Showcase
+Welcome to the **[100 JavaScript Projects]()** repository — your ultimate resource for mastering JavaScript through **hands-on, real-world projects**.
 
-Explore each project individually and view live demos to see them in action:
+<!-- Added the screenshot of the home image -->
 
-|  #  | Project Name                                                           | View Code                |
-| :-: | ---------------------------------------------------------------------- | ------------------------ |
-| 01 | [Expanding Cards](001-expanding%20cards)                               | [Github](001-expanding%20cards) 
-| 02 | [Progress Steps](002-progress%20steps)                                 | [Github](002-progress%20steps)
-| 03 | [Rotating Navigation Animation](003-rotating%20navigation)             | [Github](003-rotating%20navigation)
-| 04 | [Hidden Search Widget](004-hidden%20search%20widget)                   | [Github](004-hidden%20search%20widget)
-| 05 | [Blurry Loading](005-blurry%20loading)                                 | [Github](005-blurry%20loading)
+This carefully curated collection is your go-to resource for sharpening frontend development skills using **HTML, CSS,** and **vanilla JavaScript**—no frameworks involved. Whether you're just starting out or aiming to become a proficient frontend developer, this repository offers the perfect hands-on environment to build projects, learn core concepts, and grow with confidence.
 
-<!-- | 006 | [Scroll Animation](006-scroll%20animation)                             | [Github]()
-| 007 | [Split Landing Page](007-split%20landing%20page)                       | [Github]()
-| 008 | [Form Wave](008-form%20wave%20animation)                               | [Github]()
-| 009 | [Sound Board](009-sound%20board)                                       | [Github]()
-| 010 | [Dad Jokes](010-dad%20jokes)                                           | [Github]()
-| 011 | [Event Keycodes](011-event%20KeyCodes)                                 | [Github]()
-| 012 | [FAQ Collapse](012-FAQ%20collapse)                                     | [Github]()
-| 013 | [Random Choice Picker](013-random%20choice%20picker)                   | [Github]()
-| 014 | [Animated Navigation](014-animated%20navigation)                       | [Github]()
-| 015 | [Incrementing Counter](015-incrementing%20counter)                     | [Github]()
-| 016 | [Drink Water](016-drink%20water)                                       | [Github]()
-| 017 | [Movie App](017-movie%20app)                                           | [Github]()
-| 018 | [Background Slider](018-background%20slider)                           | [Github]()
-| 019 | [Theme Clock](019-theme%20clock)                                       | [Github]()
-| 020 | [Button Ripple Effect](020-button%20ripple%20effect)                   | [Github]()
-| 021 | [Drag N Drop](021-drag%20n%20drop)                                     | [Github]()
-| 022 | [Drawing App](022-drawing%20app)                                       | [Github]()
-| 023 | [Kinetic Loader](023-kinetic%20loader)                                 | [Github]()
-| 024 | [Content Placeholder](024-content%20placeholder)                       | [Github]()
-| 025 | [Sticky Navbar](025-sticky%20navigation)                               | [Github]()
-| 026 | [Double Vertical Slider](026-double%20vertical%20slider)               | [Github]()
-| 027 | [Toast Notification](027-toast%20notification)                           | [Github]()
-| 028 | [GitHub Profiles](028-github%20profiles)                                 | [Github]()
-| 029 | [Double Click Heart](029-double%20click%20heart)                       | [Github]()
-| 030 | [Auto Text Effect](030-auto%20text%20effect)                           | [Github]()
-| 031 | [Password Generator](031-password%20generator)                         | [Github]()
-| 032 | [Good Cheap Fast](032-good%20cheap%20fast)                             | [Github]()
-| 033 | [Notes App](033-notes%20app)                                           | [Github]()
-| 034 | [Animated Countdown](034-animated%20countdown)                         | [Github]()
-| 035 | [Image Carousel](035-image%20carousel)                                 | [Github]()
-| 036 | [Hoverboard](036-hoverboard)                                           | [Github]()
-| 037 | [Pokedex](037-pokedex)                                                 | [Github]()
-| 038 | [Mobile Tab Navigation](038-mobile%20tab%20navigation)                 | [Github]()
-| 039 | [Password Strength Background](039-password%20strength%20background)   | [Github]()
-| 040 | [3D Background Boxes](040-3d%20boxes%20background)                     | [Github]()
-| 041 | [Verify Account UI](041-verify%20account%20UI)                         | [Github]()
-| 042 | [Live User Filter](042-live%20user%20filter)                            | [Github]()
-| 043 | [Feedback UI Design](043-feedback%20UI%20design)                       | [Github]()
-| 044 | [Custom Range Slider](044-custom%20range%20slider)                     | [Github]()
-| 045 | [Netflix Mobile Navigation](045-netflix%20mobile%20navigation)           | [Github]()
-| 046 | [Quiz App](046-quiz%20app)                                             | [Github]()
-| 047 | [Testimonial Box Switcher](047-testimonial%20box%20switcher)           | [Github]()
-| 048 | [Random Image Feed](048-random%20image%20generator)                    | [Github]()
-| 049 | [Todo List](049-todo%20list)                                           | [Github]()
-| 050 | [Insect Catch Game](050-insect%20catch%20game)                         | [Github]()
-| 051 | [Video Background](051-video%20background)                             | [Github]()
-| 052 | [Portfolio with CSS Grid](052-portfolio%20grid)                        | [Github]()
-| 053 | [Touch Slider](053-touch%20slider)                                     | [Github]()
-| 054 | [CSS Loaders](054-css%20loaders)                                       | [Github]()
-| 055 | [Glass Dashboard](055-glass%20dashboard)                               | [Github]()
-| 056 | [Image Comparison Slider](056-image%20comparison%20slider)             | [Github]()
-| 057 | [Parallax Background with SVG](057-parallax%20background%20svg)        | [Github]()
-| 058 | [3D Product Card](058-3D%20product%20card)                             | [Github]()
-| 059 | [Form Validator](059-form%20validator)                                 | [Github]()
-| 060 | [Movie Seat Booking](060-movie%20seat%20booking)                       | [Github]()
-| 061 | [Custom Video Player](061-custom%20video%20player)                     | [Github]()
-| 062 | [Exchange Rate Calculator](062-exchange%20rate%20calculator)           | [Github]()
-| 063 | [DOM Array Methods](063-DOM%20array%20methods)                         | [Github]()
-| 064 | [Menu Slider & Modal](064-menu%20slider%20modal)                       | [Github]()
-| 065 | [Hangman Game](065-hangman%20game)                                     | [Github]()
-| 066 | [Meal Finder](066-meal%20finder)                                        | [Github]()
-| 067 | [Expense Tracker](067-expense%20tracker)                               | [Github]()
-| 068 | [Music Player](068-music%20player)                                     | [Github]()
-| 069 | [Infinite Scroll Posts](069-infinite%20scroll%20posts)                   | [Github]()
-| 070 | [Typing Game](070-typing%20game)                                       | [Github]()
-| 071 | [Speech Text Reader](071-speech%20text%20reader)                       | [Github]()
-| 072 | [Memory Cards](072-memory%20cards)                                     | [Github]()
-| 073 | [Lyrics Search App](073-lyrics%20search%20app)                         | [Github]()
-| 074 | [Relaxer App](074-relaxer%20app)                                       | [Github]()
-| 075 | [Breakout Game](075-breakout%20game)                                   | [Github]()
-| 076 | [New Year Countdown](076-new%20year%20countdown)                       | [Github]()
-| 077 | [Sortable List](077-sortable%20list)                                   | [Github]()
-| 078 | [Speak Number Guessing Game](078-speak%20number%20guessing%20game)     | [Github]()
-| 079 | [Creative Agency Website](079-creative%20agency%20website)             | [Github]()
-| 080 | [Health Dashboard](080-health%20dashboard)                             | [Github]()
-| 081 | [Animated SVG](081-animated%20SVG)                                     | [Github]()
-| 082 | [Parallax Landing Page](082-parallax%20landing%20page)                 | [Github]()
-| 083 | [Full-Screen Image Slider](083-full%20screen%20image%20slider)         | [Github]()
-| 084 | [Fluid Image Lightbox](084-fluid%20image%20lightbox)                    | [Github]()
-| 085 | [Sneaker Shop](085-sneaker%20shop)                                     | [Github]()
-| 086 | [Coming Soon Page](086-coming%20soon%20page)                           | [Github]()
-| 087 | [Sliding Sign In & Sign Up Form](087-sliding%20signin%20signup%20form) | [Github]()
-| 088 | [Promo Code](088-promo%20code)                                         | [Github]()
-| 089 | [One Color UI](089-one%20color%20UI)                                   | [Github]()
-| 090 | [Tooltip](090-tooltip)                                                 | [Github]()
-| 091 | [Chat Interface](091-chat%20interface)                                 | [Github]()
-| 092 | [Music Streaming Service](092-music%20streaming%20service)             | [Github]()
-| 093 | [Creative Portfolio](093-creative%20portfolio)                         | [Github]()
-| 094 | [Laptop UI](094-laptop%20UI)                                           | [Github]()
-| 095 | [Headphones Product Page](095-headphones%20product%20page)             | [Github]()
-| 096 | [Cloud Hosting Service](096-cloud%20hosting%20service)                 | [Github]()
-| 097 | [Terminal Style Landing Page](097-terminal%20style%20landing%20page)   | [Github]()
-| 098 | [Magazine Layout](098-magazine%20layout)                               | [Github]()
-| 099 | [Parallax Website](099-parallax%20website)                             | [Github]()
-| 100 | [Hulu Webpage Clone](100-hulu%20webpage%20clone)                       | [Github]()
-| 101 | [Cascade Layers](101-cascade%20layers)                                 | [Github]()
-| 102 | [Container queries](102-container%20queries)                           | [Github]()
-| 103 | [Candy Crush Game](103-Candy-Crush-Game)                               | [Github]()
-| 104 | [Archery Game](104-Archery-Game)                                       | [Github]()
-| 105 | [Speed Typing Game](105-Speed-Typing-Game)                             | [Github]()
-| 106 | [Breakout Game](106-Breakout-Game)                                     | [Github]()
-| 107 | [Minesweeper Game](107-Minesweeper-Game)                               | [Github]()
-| 108 | [Tower Blocks Game](108-Tower-Blocks-Game)                             | [Github]()
-| 109 | [Ping Pong Game](109-Ping-Pong-Game)                                   | [Github]()
-| 110 | [Tetris Game](110-Tetris-Game)                                         | [Github]() -->
+---
 
-## Get Inspired
+## 📚 About This Repository
 
-Check out my [**github**](https://github.com/Vaibhav-kesarwani) for those beginning their web development journey. Find tips, tricks, and motivational content to keep you engaged and motivated throughout your learning process.
+Inside this repository, you’ll find:
 
-## Setup Instructions
+✅ **100+ unique JavaScript projects**, organized by difficulty  
+✅ Clean, well-documented source code for every project  
+✅ A focus on modern JavaScript practices (ES6+)  
+✅ Real-world application logic to prepare you for job-ready coding  
 
-To get started with these projects, follow these simple steps:
+Projects cover a wide range of use cases and concepts, including:
 
-1. **Fork the Repository**: Click on the "Fork" button at the top-right corner of this page to create a copy of the repository in your GitHub account.
+- 🖼️ DOM Manipulation
+- 🎯 Event Handling
+- 🌐 API Fetch & Integration
+- 🧠 Data Structures & Algorithms
+- 💾 Browser Storage (LocalStorage, SessionStorage)
+- ⏱️ Asynchronous JavaScript (Async/Await, Promises)
+- ...and much more!
 
-2. **Clone the Repository**: Clone the forked repository to your local machine using the following command in your terminal:
+Each project has its own directory with a dedicated `README.md`, complete source code, and `index.html` to run in your browser.
 
-   ```bash
-   git clone https://github.com/Your-Username/html-css-javascript-projects.git
-   cd html-css-javascript-projects
-   ```
+---
 
-3. **Open with VS Code**: Open the cloned repository in [Visual Studio Code](https://code.visualstudio.com/) (VS Code) or your preferred code editor.
+## 💡 Why You Should Build JavaScript Projects
 
-4. **Install Live Server Extension**: If you haven't already, install the Live Server extension for VS Code. This extension allows you to launch a local development server and automatically refresh your browser whenever you make changes to your HTML, CSS, or JavaScript files. You can install it from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
+Building projects is the **most effective** way to learn JavaScript. Here's why:
 
-5. **Start Coding**: Start exploring the projects, make changes, experiment with different ideas, and unleash your creativity! Use Live Server to preview your changes in real-time and see how they affect the project.
+- ✅ Helps you build a job-ready portfolio
+- ✅ Boosts problem-solving and debugging skills
+- ✅ Improves your coding confidence by solving real-world problems
+- ✅ Reinforces core JavaScript concepts through practical application
 
-## Show Your Support
+---
 
-If you find these projects helpful or interesting, please consider starring the repository. It's a simple gesture that helps to boost the visibility of the project and show appreciation for the effort put into creating it. Your support is greatly appreciated. Thank you!
+## 🛠️ How to Use This Repository
 
-## Credits
+Follow these steps to get started:
 
-All the credit goes to [Vaibhav Kesarwani](https://github.com/Vaibhav-kesarwani)
+#### Step 1: Clone the repository
+```bash
+git clone https://github.com/Vaibhav-kesarwani/100-javascript-projects.git
+```
+
+#### Step 2: Navigate into the directory
+```bash
+cd 100-javascript-projects
+```
+
+#### Step 3: Open any project folder
+```bash
+cd 01-todo-list/
+```
+
+#### Step 4: Run the project
+```bash
+Open index.html in your browser
+```
+
+You can also explore and deploy the live version from the [official website]().
+
+---
+
+## 📝 Project Preview
+
+| #   | Project Name            | View Code                                                                                                                |
+| --- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| 01  | To-Do List App          | [GitHub](https://github.com//Vaibhav-kesarwani/100-javascript-projects/tree/main/01-todo-list)                           |
+| 02  | Simple Calculator       | [GitHub](https://github.com//Vaibhav-kesarwani/100-javascript-projects/tree/main/02-simple-calculator)                   |
+| 03  | Digital Clock           | [GitHub](https://github.com//Vaibhav-kesarwani/100-javascript-projects/tree/main/03-digital-clock)                       |
+| 04  | Tip Calculator          | [GitHub](https://github.com//Vaibhav-kesarwani/100-javascript-projects/tree/main/04-tip-calculator)                      |
+| 05  | Temperature Converter   | [GitHub](https://github.com//Vaibhav-kesarwani/100-javascript-projects/tree/main/05-temperature-converter)               |
+| 06  | Random Quote Generator  | [GitHub](https://github.com//Vaibhav-kesarwani/100-javascript-projects/tree/main/06-random-quote-generator)              |
+| ... | ...                     | [View All Projects »](https://github.com//Vaibhav-kesarwani/100-javascript-projects)                                     |
+
+---
+
+## 🧰 Tech Stack
+
+These projects are built using the following technologies:
+
+- 🟨 **JavaScript (ES6+)** – Core language used in all projects
+- 🟦 **HTML5** – Semantic structure for each project
+- 🎨 **CSS3** – Styling using custom and minimal CSS
+- 🌐 **APIs** – Integrated in several projects for dynamic content
+
+---
+
+## 🤝 Contributing
+
+Have a cool idea or want to improve an existing project? Contributions are welcome! Here's how to get involved:
+
+#### Step 1: Fork the repository
+
+#### Step 2: Create a feature branch
+```bash
+git checkout -b feature/your-feature-name
+```
+
+#### Step 3: Commit your changes
+```bash
+git commit -m "Add new feature or fix"
+```
+
+#### Step 4: Push to your branch
+```bash
+git push origin feature/your-feature-name
+```
+
+#### Step 5: Open a Pull Request
+
+Please follow the [Code of Conduct Guidelines](CODE_OF_CONDUCT.md) for a smooth review process.
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.  
+Feel free to use, modify, and share it. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## 📢 Contact
+
+If you have any suggestions, questions, or feedback, feel free to reach out:
+
+- 📬 **Email**: [vaibhavkesarwani100@gmail.com](mailto:vaibhavkesarwani100@gmail.com)  
+- 💼 **GitHub**: [@Vaibhav-kesarwani](https://github.com/Vaibhav-kesarwani)
+- 🔥 **Portfolio**: [vaibhav kesarwani](https://vaibhavkesarwani.vercel.app/)
+
+---
+
+## 🌟 Support & Share
+
+If you find this repository helpful:
+
+- ⭐ Star it on GitHub  
+- 🍴 Fork it to build your own version  
+- 📣 Share it with your developer friends and communities!
+
+---
+
+## 🚀 Start Building Today!
+
+Level up your skills by building—because the best way to learn JavaScript is by **getting your hands dirty**. Dive into the code, experiment freely, and create something awesome along the way!
